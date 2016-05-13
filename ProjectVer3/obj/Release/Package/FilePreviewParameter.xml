@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="TravelLot" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^E:\\UCN\\Semester\ 4\\VS\ Solutions\\WebPortofolio\\ProjectVer3\\ProjectVer3\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^E:\\UCN\\Semester\ 4\\VS\ Solutions\\WebPortofolio\\ProjectVer3\\ProjectVer3\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="DefaultConnection-Web.config Connection String" description="" value="Data Source=tcp:group31.database.windows.net,1433;Initial Catalog=TravelLot847;User Id=group31@group31;Password=Alexaregrijadecartofi69!" tags="">
+    <parameterEntry kind="XmlFile" scope="E:\\UCN\\Semester\ 4\\VS\ Solutions\\WebPortofolio\\ProjectVer3\\ProjectVer3\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+</parameters>
